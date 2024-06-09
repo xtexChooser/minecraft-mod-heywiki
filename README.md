@@ -24,7 +24,7 @@ It supports Fabric and NeoForge.
 
 ~~I didn't know that this mod is kinda like *Lexica Botania* but it is.~~
 
-https://github.com/mc-wiki/minecraft-mod-heywiki/assets/45287180/9e59d397-07b7-4fd0-8835-70b1569f8079
+https://github.com/mc-wiki/minecraft-mod-heywiki/assets/45287180/b0650362-1fe9-46ff-83a1-48219d5fcc05
 
 ### How to use
 
